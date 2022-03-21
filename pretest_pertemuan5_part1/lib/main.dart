@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_parcel_app/ui/screens/home_screen.dart';
+import 'package:pretest_pertemuan5_part1/ui/screens/home_screen.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 
